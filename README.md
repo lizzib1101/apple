@@ -37,7 +37,7 @@
       <div class="star">Apple Scam Button</div></marquee>
     <button onclick="alert('Lol scammed')">Send VBucks</button>
     <p class="star">TEXTTTTT</p>
-    <button onclick="alert"('Do you want to leave this page')">Free iPhone</button>
+    <button onclick="alert('Do you want to leave this page')">Free iPhone</button>
     <marquee> <p>Hello</p>
 
 </body>
