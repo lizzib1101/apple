@@ -28,7 +28,7 @@
             cursor: pointer;
             padding: 10px;
         }
-    </style>
+        </style>
 </head>
 <body>
     <h1>Welcome to Apple</h1>
@@ -38,7 +38,7 @@
     <button onclick="alert('Lol scammed')">Send VBucks</button>
     <p class="star">TEXTTTTT</p>
     <button onclick="alert('Do you want to leave this page')">Free iPhone</button>
-    <marquee> <p>Hello</p>
-
+    <marquee> <p>Hello</p> </marquee>
+    <a href="https://apple.com">Click here for massive scam</a>
 </body>
 </html>
